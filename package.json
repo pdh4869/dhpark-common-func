@@ -1,0 +1,26 @@
+{
+  "name": "dhpark-common-func",
+  "version": "0.1.0",
+  "description": "common func",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdh4869/dhpark-common-func.git"
+  },
+  "keywords": [
+    "common",
+    "js",
+    "function",
+    "export",
+    "module"
+  ],
+  "author": "pdh4869",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pdh4869/dhpark-common-func/issues"
+  },
+  "homepage": "https://github.com/pdh4869/dhpark-common-func#readme"
+}
